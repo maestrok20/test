@@ -29,5 +29,5 @@ void MainWindow::on_pushButton_clicked()
 //    time_ref2->getVirtFunc(1,2,3);
 
 //    delete time_ref2;
-
+//tew
 }
